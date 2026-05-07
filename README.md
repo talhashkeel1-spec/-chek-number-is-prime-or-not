@@ -1,0 +1,1 @@
+# -chek-number-is-prime-or-not
